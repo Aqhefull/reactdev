@@ -4,7 +4,7 @@ import './App.sass';
 
 //Import Blocks
 
-import Header from './inc/header/Header'
+import Header from "./components/header/Header";
 
 class App extends Component {
   render() {
